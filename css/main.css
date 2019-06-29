@@ -1,0 +1,11 @@
+/* Equisolve Dev Test - Ryan Bishop */
+body{color:white;background: repeating-linear-gradient(  45deg,  #606dbc,  #606dbc 10px,  #465298 10px,  #465298 20px);}
+#ct-output{}
+.jsaxer-controlform-input-apiurl{background:rgba(0,0,0,.25);color:white;border:0px none;}
+.jsaxer-list-wrapper{width:100%;max-width:1200px;margin:0px;}
+.jsaxer-list{list-style-type:none;padding:0;}
+.jsaxer-list-item{background:#FFFFFF;color:#555;padding:8px 16px;margin-bottom:8px;}
+.jsaxer-list-item-date{font-size:24px;text-align:left;color:#777777;font-weight:500;}
+.jsaxer-list-item-title{font-size:14px;color:#555;line-height:22px;}
+.jsaxer-list-item-author{font-weight:300;color:#555;margin-top:10px;padding-top:10px;border-top:solid 1px #e6e6e6;}
+.themed-grid-col {padding-top: 15px;padding-bottom: 15px;background-color: rgba(0, 0, 0, .2);border: 1px solid rgba(0, 0, 0, .25);}
